@@ -1,0 +1,705 @@
+2025-08-28 18:13:40,575 - numexpr.utils - INFO - NumExpr defaulting to 12 threads.
+2025-08-28 18:14:12,415 - numexpr.utils - INFO - NumExpr defaulting to 12 threads.
+2025-08-28 18:16:13,018 - numexpr.utils - INFO - NumExpr defaulting to 12 threads.
+2025-08-28 18:19:03,565 - numexpr.utils - INFO - NumExpr defaulting to 12 threads.
+2025-08-28 18:20:44,353 - numexpr.utils - INFO - NumExpr defaulting to 12 threads.
+2025-08-28 18:20:45,228 - root - INFO - All blueprints registered successfully
+2025-08-28 18:20:45,230 - root - INFO - Initializing database schema...
+2025-08-28 18:20:45,479 - mysql.connector - INFO - package: mysql.connector.plugins
+2025-08-28 18:20:45,480 - mysql.connector - INFO - plugin_name: caching_sha2_password
+2025-08-28 18:20:45,480 - mysql.connector - INFO - AUTHENTICATION_PLUGIN_CLASS: MySQLCachingSHA2PasswordAuthPlugin
+2025-08-28 18:20:45,482 - mysql.connector - INFO - package: mysql.connector.plugins
+2025-08-28 18:20:45,482 - mysql.connector - INFO - plugin_name: mysql_native_password
+2025-08-28 18:20:45,484 - mysql.connector - INFO - AUTHENTICATION_PLUGIN_CLASS: MySQLNativePasswordAuthPlugin
+2025-08-28 18:20:45,686 - root - INFO - Database connection established successfully
+2025-08-28 18:20:45,745 - root - INFO - Database tables initialized successfully
+2025-08-28 18:20:45,745 - root - INFO - Creating admin user...
+2025-08-28 18:20:45,981 - root - INFO - Admin user created or already exists
+2025-08-28 18:20:45,981 - root - INFO - Creating default validation rules...
+2025-08-28 18:20:45,988 - root - INFO - Default validation rules ensured successfully
+2025-08-28 18:20:45,988 - root - INFO - Application initialization completed successfully
+2025-08-28 18:20:46,035 - werkzeug - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://10.178.161.115:5000
+2025-08-28 18:20:46,035 - werkzeug - INFO - [33mPress CTRL+C to quit[0m
+2025-08-28 18:20:46,037 - werkzeug - INFO -  * Restarting with stat
+2025-08-28 18:20:46,492 - numexpr.utils - INFO - NumExpr defaulting to 12 threads.
+2025-08-28 18:20:46,976 - root - INFO - All blueprints registered successfully
+2025-08-28 18:20:46,978 - root - INFO - Initializing database schema...
+2025-08-28 18:20:47,162 - mysql.connector - INFO - package: mysql.connector.plugins
+2025-08-28 18:20:47,162 - mysql.connector - INFO - plugin_name: caching_sha2_password
+2025-08-28 18:20:47,162 - mysql.connector - INFO - AUTHENTICATION_PLUGIN_CLASS: MySQLCachingSHA2PasswordAuthPlugin
+2025-08-28 18:20:47,163 - mysql.connector - INFO - package: mysql.connector.plugins
+2025-08-28 18:20:47,163 - mysql.connector - INFO - plugin_name: mysql_native_password
+2025-08-28 18:20:47,164 - mysql.connector - INFO - AUTHENTICATION_PLUGIN_CLASS: MySQLNativePasswordAuthPlugin
+2025-08-28 18:20:47,329 - root - INFO - Database connection established successfully
+2025-08-28 18:20:47,357 - root - INFO - Database tables initialized successfully
+2025-08-28 18:20:47,358 - root - INFO - Creating admin user...
+2025-08-28 18:20:47,583 - root - INFO - Admin user created or already exists
+2025-08-28 18:20:47,583 - root - INFO - Creating default validation rules...
+2025-08-28 18:20:47,588 - root - INFO - Default validation rules ensured successfully
+2025-08-28 18:20:47,588 - root - INFO - Application initialization completed successfully
+2025-08-28 18:20:47,604 - werkzeug - WARNING -  * Debugger is active!
+2025-08-28 18:20:47,609 - werkzeug - INFO -  * Debugger PIN: 135-922-860
+2025-08-28 18:21:12,348 - werkzeug - INFO - 127.0.0.1 - - [28/Aug/2025 18:21:12] "[33mGET /check-auth HTTP/1.1[0m" 404 -
+2025-08-28 18:21:12,431 - werkzeug - INFO - 127.0.0.1 - - [28/Aug/2025 18:21:12] "[33mGET /check-auth HTTP/1.1[0m" 404 -
+2025-08-28 18:21:41,564 - werkzeug - INFO - 127.0.0.1 - - [28/Aug/2025 18:21:41] "[31m[1mPOST /authenticate HTTP/1.1[0m" 405 -
+2025-08-28 18:27:12,671 - werkzeug - INFO -  * Detected change in 'c:\\Users\\MOM\\Downloads\\Deploy\\Deploy\\14-08-2025\\App (2)\\App\\app.py', reloading
+2025-08-28 18:27:13,043 - werkzeug - INFO -  * Restarting with stat
+2025-08-28 18:27:13,754 - numexpr.utils - INFO - NumExpr defaulting to 12 threads.
+2025-08-28 18:27:14,469 - root - INFO - All blueprints registered successfully
+2025-08-28 18:27:14,471 - root - INFO - Initializing database schema...
+2025-08-28 18:27:17,292 - mysql.connector - INFO - package: mysql.connector.plugins
+2025-08-28 18:27:17,292 - mysql.connector - INFO - plugin_name: caching_sha2_password
+2025-08-28 18:27:17,292 - mysql.connector - INFO - AUTHENTICATION_PLUGIN_CLASS: MySQLCachingSHA2PasswordAuthPlugin
+2025-08-28 18:27:17,294 - mysql.connector - INFO - package: mysql.connector.plugins
+2025-08-28 18:27:17,294 - mysql.connector - INFO - plugin_name: mysql_native_password
+2025-08-28 18:27:17,296 - mysql.connector - INFO - AUTHENTICATION_PLUGIN_CLASS: MySQLNativePasswordAuthPlugin
+2025-08-28 18:27:17,576 - root - INFO - Database connection established successfully
+2025-08-28 18:27:17,644 - root - INFO - Database tables initialized successfully
+2025-08-28 18:27:17,645 - root - INFO - Creating admin user...
+2025-08-28 18:27:17,915 - root - INFO - Admin user created or already exists
+2025-08-28 18:27:17,915 - root - INFO - Creating default validation rules...
+2025-08-28 18:27:17,924 - root - INFO - Default validation rules ensured successfully
+2025-08-28 18:27:17,925 - root - INFO - Application initialization completed successfully
+2025-08-28 18:27:17,950 - werkzeug - WARNING -  * Debugger is active!
+2025-08-28 18:27:17,955 - werkzeug - INFO -  * Debugger PIN: 135-922-860
+2025-08-28 18:28:43,899 - werkzeug - INFO - 127.0.0.1 - - [28/Aug/2025 18:28:43] "[31m[1mPOST /authenticate HTTP/1.1[0m" 405 -
+2025-08-28 18:28:44,815 - werkzeug - INFO - 127.0.0.1 - - [28/Aug/2025 18:28:44] "[31m[1mPOST /authenticate HTTP/1.1[0m" 405 -
+2025-08-28 18:32:42,121 - werkzeug - INFO -  * Detected change in 'c:\\Users\\MOM\\Downloads\\Deploy\\Deploy\\14-08-2025\\App (2)\\App\\app.py', reloading
+2025-08-28 18:32:42,315 - werkzeug - INFO -  * Restarting with stat
+2025-08-28 18:32:42,717 - numexpr.utils - INFO - NumExpr defaulting to 12 threads.
+2025-08-28 18:33:23,997 - numexpr.utils - INFO - NumExpr defaulting to 12 threads.
+2025-08-28 18:35:34,434 - numexpr.utils - INFO - NumExpr defaulting to 12 threads.
+2025-08-28 18:35:35,313 - werkzeug - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://10.178.161.115:5000
+2025-08-28 18:35:35,314 - werkzeug - INFO - [33mPress CTRL+C to quit[0m
+2025-08-28 18:35:35,315 - werkzeug - INFO -  * Restarting with stat
+2025-08-28 18:35:35,593 - numexpr.utils - INFO - NumExpr defaulting to 12 threads.
+2025-08-28 18:35:36,235 - werkzeug - WARNING -  * Debugger is active!
+2025-08-28 18:35:36,239 - werkzeug - INFO -  * Debugger PIN: 135-922-860
+2025-08-28 18:35:41,474 - werkzeug - INFO - 127.0.0.1 - - [28/Aug/2025 18:35:41] "[31m[1mPOST /authenticate HTTP/1.1[0m" 405 -
+2025-08-28 18:36:40,945 - werkzeug - INFO -  * Detected change in 'c:\\Users\\MOM\\Downloads\\Deploy\\Deploy\\14-08-2025\\App (2)\\App\\app.py', reloading
+2025-08-28 18:36:41,121 - werkzeug - INFO -  * Restarting with stat
+2025-08-28 18:36:41,464 - numexpr.utils - INFO - NumExpr defaulting to 12 threads.
+2025-08-28 18:38:39,404 - numexpr.utils - INFO - NumExpr defaulting to 12 threads.
+2025-08-28 18:38:40,323 - root - INFO - Initializing database schema...
+2025-08-28 18:38:40,576 - mysql.connector - INFO - package: mysql.connector.plugins
+2025-08-28 18:38:40,576 - mysql.connector - INFO - plugin_name: caching_sha2_password
+2025-08-28 18:38:40,577 - mysql.connector - INFO - AUTHENTICATION_PLUGIN_CLASS: MySQLCachingSHA2PasswordAuthPlugin
+2025-08-28 18:38:40,578 - mysql.connector - INFO - package: mysql.connector.plugins
+2025-08-28 18:38:40,579 - mysql.connector - INFO - plugin_name: mysql_native_password
+2025-08-28 18:38:40,580 - mysql.connector - INFO - AUTHENTICATION_PLUGIN_CLASS: MySQLNativePasswordAuthPlugin
+2025-08-28 18:38:40,767 - root - INFO - Database connection established successfully
+2025-08-28 18:38:40,912 - root - INFO - Database tables initialized
+2025-08-28 18:38:40,912 - root - INFO - Creating admin user...
+2025-08-28 18:38:41,139 - root - INFO - Admin user created or already exists
+2025-08-28 18:38:41,139 - root - INFO - Creating default validation rules...
+2025-08-28 18:38:41,146 - root - INFO - Default validation rules ensured successfully
+2025-08-28 18:38:41,146 - root - INFO - Application initialization completed successfully
+2025-08-28 18:38:41,185 - werkzeug - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://10.178.161.115:5000
+2025-08-28 18:38:41,185 - werkzeug - INFO - [33mPress CTRL+C to quit[0m
+2025-08-28 18:38:41,187 - werkzeug - INFO -  * Restarting with stat
+2025-08-28 18:38:41,460 - numexpr.utils - INFO - NumExpr defaulting to 12 threads.
+2025-08-28 18:38:42,099 - root - INFO - Initializing database schema...
+2025-08-28 18:38:42,278 - mysql.connector - INFO - package: mysql.connector.plugins
+2025-08-28 18:38:42,278 - mysql.connector - INFO - plugin_name: caching_sha2_password
+2025-08-28 18:38:42,278 - mysql.connector - INFO - AUTHENTICATION_PLUGIN_CLASS: MySQLCachingSHA2PasswordAuthPlugin
+2025-08-28 18:38:42,279 - mysql.connector - INFO - package: mysql.connector.plugins
+2025-08-28 18:38:42,279 - mysql.connector - INFO - plugin_name: mysql_native_password
+2025-08-28 18:38:42,280 - mysql.connector - INFO - AUTHENTICATION_PLUGIN_CLASS: MySQLNativePasswordAuthPlugin
+2025-08-28 18:38:42,438 - root - INFO - Database connection established successfully
+2025-08-28 18:38:42,471 - root - INFO - Database tables initialized
+2025-08-28 18:38:42,471 - root - INFO - Creating admin user...
+2025-08-28 18:38:42,693 - root - INFO - Admin user created or already exists
+2025-08-28 18:38:42,693 - root - INFO - Creating default validation rules...
+2025-08-28 18:38:42,698 - root - INFO - Default validation rules ensured successfully
+2025-08-28 18:38:42,698 - root - INFO - Application initialization completed successfully
+2025-08-28 18:38:42,715 - werkzeug - WARNING -  * Debugger is active!
+2025-08-28 18:38:42,719 - werkzeug - INFO -  * Debugger PIN: 135-922-860
+2025-08-28 18:38:46,927 - werkzeug - INFO - 127.0.0.1 - - [28/Aug/2025 18:38:46] "[31m[1mPOST /authenticate HTTP/1.1[0m" 405 -
+2025-08-28 18:40:03,259 - werkzeug - INFO -  * Detected change in 'c:\\Users\\MOM\\Downloads\\Deploy\\Deploy\\14-08-2025\\App (2)\\App\\app.py', reloading
+2025-08-28 18:40:03,436 - werkzeug - INFO -  * Restarting with stat
+2025-08-28 18:40:03,731 - numexpr.utils - INFO - NumExpr defaulting to 12 threads.
+2025-08-28 18:40:04,416 - root - INFO - Initializing database schema...
+2025-08-28 18:40:04,594 - mysql.connector - INFO - package: mysql.connector.plugins
+2025-08-28 18:40:04,595 - mysql.connector - INFO - plugin_name: caching_sha2_password
+2025-08-28 18:40:04,595 - mysql.connector - INFO - AUTHENTICATION_PLUGIN_CLASS: MySQLCachingSHA2PasswordAuthPlugin
+2025-08-28 18:40:04,595 - mysql.connector - INFO - package: mysql.connector.plugins
+2025-08-28 18:40:04,596 - mysql.connector - INFO - plugin_name: mysql_native_password
+2025-08-28 18:40:04,596 - mysql.connector - INFO - AUTHENTICATION_PLUGIN_CLASS: MySQLNativePasswordAuthPlugin
+2025-08-28 18:40:04,759 - root - INFO - Database connection established successfully
+2025-08-28 18:40:04,793 - root - INFO - Database tables initialized
+2025-08-28 18:40:04,793 - root - INFO - Creating admin user...
+2025-08-28 18:40:05,021 - root - INFO - Admin user created or already exists
+2025-08-28 18:40:05,021 - root - INFO - Creating default validation rules...
+2025-08-28 18:40:05,026 - root - INFO - Default validation rules ensured successfully
+2025-08-28 18:40:05,027 - root - INFO - Application initialization completed successfully
+2025-08-28 18:40:05,046 - werkzeug - WARNING -  * Debugger is active!
+2025-08-28 18:40:05,050 - werkzeug - INFO -  * Debugger PIN: 135-922-860
+2025-08-28 18:40:28,817 - numexpr.utils - INFO - NumExpr defaulting to 12 threads.
+2025-08-28 18:40:29,465 - root - INFO - Initializing database schema...
+2025-08-28 18:40:29,649 - mysql.connector - INFO - package: mysql.connector.plugins
+2025-08-28 18:40:29,649 - mysql.connector - INFO - plugin_name: caching_sha2_password
+2025-08-28 18:40:29,650 - mysql.connector - INFO - AUTHENTICATION_PLUGIN_CLASS: MySQLCachingSHA2PasswordAuthPlugin
+2025-08-28 18:40:29,650 - mysql.connector - INFO - package: mysql.connector.plugins
+2025-08-28 18:40:29,650 - mysql.connector - INFO - plugin_name: mysql_native_password
+2025-08-28 18:40:29,651 - mysql.connector - INFO - AUTHENTICATION_PLUGIN_CLASS: MySQLNativePasswordAuthPlugin
+2025-08-28 18:40:29,817 - root - INFO - Database connection established successfully
+2025-08-28 18:40:29,856 - root - INFO - Database tables initialized
+2025-08-28 18:40:29,856 - root - INFO - Creating admin user...
+2025-08-28 18:40:30,084 - root - INFO - Admin user created or already exists
+2025-08-28 18:40:30,084 - root - INFO - Creating default validation rules...
+2025-08-28 18:40:30,090 - root - INFO - Default validation rules ensured successfully
+2025-08-28 18:40:30,090 - root - INFO - Application initialization completed successfully
+2025-08-28 18:40:30,119 - werkzeug - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://10.178.161.115:5000
+2025-08-28 18:40:30,119 - werkzeug - INFO - [33mPress CTRL+C to quit[0m
+2025-08-28 18:40:30,120 - werkzeug - INFO -  * Restarting with stat
+2025-08-28 18:40:30,390 - numexpr.utils - INFO - NumExpr defaulting to 12 threads.
+2025-08-28 18:40:30,996 - root - INFO - Initializing database schema...
+2025-08-28 18:40:31,179 - mysql.connector - INFO - package: mysql.connector.plugins
+2025-08-28 18:40:31,180 - mysql.connector - INFO - plugin_name: caching_sha2_password
+2025-08-28 18:40:31,180 - mysql.connector - INFO - AUTHENTICATION_PLUGIN_CLASS: MySQLCachingSHA2PasswordAuthPlugin
+2025-08-28 18:40:31,180 - mysql.connector - INFO - package: mysql.connector.plugins
+2025-08-28 18:40:31,181 - mysql.connector - INFO - plugin_name: mysql_native_password
+2025-08-28 18:40:31,182 - mysql.connector - INFO - AUTHENTICATION_PLUGIN_CLASS: MySQLNativePasswordAuthPlugin
+2025-08-28 18:40:31,348 - root - INFO - Database connection established successfully
+2025-08-28 18:40:31,386 - root - INFO - Database tables initialized
+2025-08-28 18:40:31,386 - root - INFO - Creating admin user...
+2025-08-28 18:40:31,608 - root - INFO - Admin user created or already exists
+2025-08-28 18:40:31,608 - root - INFO - Creating default validation rules...
+2025-08-28 18:40:31,614 - root - INFO - Default validation rules ensured successfully
+2025-08-28 18:40:31,614 - root - INFO - Application initialization completed successfully
+2025-08-28 18:40:31,635 - werkzeug - WARNING -  * Debugger is active!
+2025-08-28 18:40:31,638 - werkzeug - INFO -  * Debugger PIN: 135-922-860
+2025-08-28 18:40:45,552 - werkzeug - INFO - 127.0.0.1 - - [28/Aug/2025 18:40:45] "GET / HTTP/1.1" 200 -
+2025-08-28 18:40:45,664 - werkzeug - INFO - 127.0.0.1 - - [28/Aug/2025 18:40:45] "GET /assets/index-DRgoCnNu.css HTTP/1.1" 200 -
+2025-08-28 18:40:45,768 - werkzeug - INFO - 127.0.0.1 - - [28/Aug/2025 18:40:45] "GET /assets/index-IO0aX73z.js HTTP/1.1" 200 -
+2025-08-28 18:40:46,127 - werkzeug - INFO - 127.0.0.1 - - [28/Aug/2025 18:40:46] "[33mGET /api/check-auth HTTP/1.1[0m" 404 -
+2025-08-28 18:40:46,381 - werkzeug - INFO - 127.0.0.1 - - [28/Aug/2025 18:40:46] "[33mGET /api/check-auth HTTP/1.1[0m" 404 -
+2025-08-28 18:40:46,461 - werkzeug - INFO - 127.0.0.1 - - [28/Aug/2025 18:40:46] "GET /assets/Keansa_Logo-B3ye--dC.png HTTP/1.1" 200 -
+2025-08-28 18:40:46,704 - werkzeug - INFO - 127.0.0.1 - - [28/Aug/2025 18:40:46] "GET /favicon.ico HTTP/1.1" 200 -
+2025-08-28 18:41:01,251 - werkzeug - INFO - 127.0.0.1 - - [28/Aug/2025 18:41:01] "[31m[1mPOST /api/authenticate HTTP/1.1[0m" 405 -
+2025-08-28 18:42:44,267 - werkzeug - INFO -  * Detected change in 'c:\\Users\\MOM\\Downloads\\Deploy\\Deploy\\14-08-2025\\App (2)\\App\\app.py', reloading
+2025-08-28 18:42:44,459 - werkzeug - INFO -  * Restarting with stat
+2025-08-28 18:42:44,853 - numexpr.utils - INFO - NumExpr defaulting to 12 threads.
+2025-08-28 18:46:04,030 - numexpr.utils - INFO - NumExpr defaulting to 12 threads.
+2025-08-28 18:46:05,174 - root - INFO - Initializing database schema...
+2025-08-28 18:46:05,457 - mysql.connector - INFO - package: mysql.connector.plugins
+2025-08-28 18:46:05,458 - mysql.connector - INFO - plugin_name: caching_sha2_password
+2025-08-28 18:46:05,458 - mysql.connector - INFO - AUTHENTICATION_PLUGIN_CLASS: MySQLCachingSHA2PasswordAuthPlugin
+2025-08-28 18:46:05,460 - mysql.connector - INFO - package: mysql.connector.plugins
+2025-08-28 18:46:05,460 - mysql.connector - INFO - plugin_name: mysql_native_password
+2025-08-28 18:46:05,462 - mysql.connector - INFO - AUTHENTICATION_PLUGIN_CLASS: MySQLNativePasswordAuthPlugin
+2025-08-28 18:46:05,693 - root - INFO - Database connection established successfully
+2025-08-28 18:46:05,798 - root - INFO - Database tables initialized
+2025-08-28 18:46:05,798 - root - INFO - Creating admin user...
+2025-08-28 18:46:06,070 - root - INFO - Admin user created or already exists
+2025-08-28 18:46:06,070 - root - INFO - Creating default validation rules...
+2025-08-28 18:46:06,079 - root - INFO - Default validation rules ensured successfully
+2025-08-28 18:46:06,079 - root - INFO - Application initialization completed successfully
+2025-08-28 18:46:06,136 - werkzeug - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://10.178.161.115:5000
+2025-08-28 18:46:06,136 - werkzeug - INFO - [33mPress CTRL+C to quit[0m
+2025-08-28 18:46:06,138 - werkzeug - INFO -  * Restarting with stat
+2025-08-28 18:46:06,484 - numexpr.utils - INFO - NumExpr defaulting to 12 threads.
+2025-08-28 18:46:07,284 - root - INFO - Initializing database schema...
+2025-08-28 18:46:07,540 - mysql.connector - INFO - package: mysql.connector.plugins
+2025-08-28 18:46:07,540 - mysql.connector - INFO - plugin_name: caching_sha2_password
+2025-08-28 18:46:07,540 - mysql.connector - INFO - AUTHENTICATION_PLUGIN_CLASS: MySQLCachingSHA2PasswordAuthPlugin
+2025-08-28 18:46:07,541 - mysql.connector - INFO - package: mysql.connector.plugins
+2025-08-28 18:46:07,541 - mysql.connector - INFO - plugin_name: mysql_native_password
+2025-08-28 18:46:07,542 - mysql.connector - INFO - AUTHENTICATION_PLUGIN_CLASS: MySQLNativePasswordAuthPlugin
+2025-08-28 18:46:07,732 - root - INFO - Database connection established successfully
+2025-08-28 18:46:07,769 - root - INFO - Database tables initialized
+2025-08-28 18:46:07,769 - root - INFO - Creating admin user...
+2025-08-28 18:46:08,036 - root - INFO - Admin user created or already exists
+2025-08-28 18:46:08,037 - root - INFO - Creating default validation rules...
+2025-08-28 18:46:08,043 - root - INFO - Default validation rules ensured successfully
+2025-08-28 18:46:08,043 - root - INFO - Application initialization completed successfully
+2025-08-28 18:46:08,068 - werkzeug - WARNING -  * Debugger is active!
+2025-08-28 18:46:08,079 - werkzeug - INFO -  * Debugger PIN: 135-922-860
+2025-08-28 18:46:13,090 - werkzeug - INFO - 127.0.0.1 - - [28/Aug/2025 18:46:13] "[31m[1mPOST /api/authenticate HTTP/1.1[0m" 405 -
+2025-08-28 18:47:30,609 - werkzeug - INFO -  * Detected change in 'c:\\Users\\MOM\\Downloads\\Deploy\\Deploy\\14-08-2025\\App (2)\\App\\run.py', reloading
+2025-08-28 18:47:30,802 - werkzeug - INFO -  * Restarting with stat
+2025-08-28 18:47:31,264 - numexpr.utils - INFO - NumExpr defaulting to 12 threads.
+2025-08-28 18:47:32,481 - root - INFO - Initializing database schema...
+2025-08-28 18:47:32,700 - mysql.connector - INFO - package: mysql.connector.plugins
+2025-08-28 18:47:32,701 - mysql.connector - INFO - plugin_name: caching_sha2_password
+2025-08-28 18:47:32,701 - mysql.connector - INFO - AUTHENTICATION_PLUGIN_CLASS: MySQLCachingSHA2PasswordAuthPlugin
+2025-08-28 18:47:32,701 - mysql.connector - INFO - package: mysql.connector.plugins
+2025-08-28 18:47:32,702 - mysql.connector - INFO - plugin_name: mysql_native_password
+2025-08-28 18:47:32,703 - mysql.connector - INFO - AUTHENTICATION_PLUGIN_CLASS: MySQLNativePasswordAuthPlugin
+2025-08-28 18:47:32,907 - root - INFO - Database connection established successfully
+2025-08-28 18:47:32,950 - root - INFO - Database tables initialized
+2025-08-28 18:47:32,950 - root - INFO - Creating admin user...
+2025-08-28 18:47:33,218 - root - INFO - Admin user created or already exists
+2025-08-28 18:47:33,218 - root - INFO - Creating default validation rules...
+2025-08-28 18:47:33,224 - root - INFO - Default validation rules ensured successfully
+2025-08-28 18:47:33,225 - root - INFO - Application initialization completed successfully
+2025-08-28 18:47:33,252 - werkzeug - WARNING -  * Debugger is active!
+2025-08-28 18:47:33,256 - werkzeug - INFO -  * Debugger PIN: 135-922-860
+2025-08-28 18:48:14,510 - root - INFO - Database connection established successfully
+2025-08-28 18:48:14,776 - root - INFO - User rahul@gmail.com logged in successfully. Session: {'_permanent': True, 'loggedin': True, 'user_email': 'rahul@gmail.com', 'user_id': 60}
+2025-08-28 18:48:14,798 - werkzeug - INFO - 127.0.0.1 - - [28/Aug/2025 18:48:14] "POST /authenticate HTTP/1.1" 200 -
+2025-08-28 18:48:15,375 - root - INFO - Database connection established successfully
+2025-08-28 18:48:15,383 - root - INFO - User rahul@gmail.com is authenticated
+2025-08-28 18:48:15,409 - werkzeug - INFO - 127.0.0.1 - - [28/Aug/2025 18:48:15] "GET /check-auth HTTP/1.1" 200 -
+2025-08-28 18:49:14,194 - werkzeug - INFO - 127.0.0.1 - - [28/Aug/2025 18:49:14] "[33mGET /rule-configurations HTTP/1.1[0m" 404 -
+2025-08-28 18:49:14,244 - werkzeug - INFO - 127.0.0.1 - - [28/Aug/2025 18:49:14] "[33mGET /validation-history HTTP/1.1[0m" 404 -
+2025-08-28 18:49:14,545 - root - INFO - Database connection established successfully
+2025-08-28 18:49:14,552 - root - INFO - User rahul@gmail.com is authenticated
+2025-08-28 18:49:14,560 - werkzeug - INFO - 127.0.0.1 - - [28/Aug/2025 18:49:14] "GET /check-auth HTTP/1.1" 200 -
+2025-08-28 18:49:14,584 - werkzeug - INFO - 127.0.0.1 - - [28/Aug/2025 18:49:14] "[33mGET /rule-configurations HTTP/1.1[0m" 404 -
+2025-08-28 18:49:14,893 - werkzeug - INFO - 127.0.0.1 - - [28/Aug/2025 18:49:14] "[33mGET /validation-history HTTP/1.1[0m" 404 -
+2025-08-28 18:49:28,975 - werkzeug - INFO - 127.0.0.1 - - [28/Aug/2025 18:49:28] "[31m[1mPOST /upload HTTP/1.1[0m" 405 -
+2025-08-28 18:49:37,729 - root - INFO - Database connection established successfully
+2025-08-28 18:49:37,735 - root - INFO - User rahul@gmail.com is authenticated
+2025-08-28 18:49:37,742 - werkzeug - INFO - 127.0.0.1 - - [28/Aug/2025 18:49:37] "GET /check-auth HTTP/1.1" 200 -
+2025-08-28 18:55:31,903 - werkzeug - INFO - 127.0.0.1 - - [28/Aug/2025 18:55:31] "[33mGET /rule-configurations HTTP/1.1[0m" 404 -
+2025-08-28 18:55:31,945 - werkzeug - INFO - 127.0.0.1 - - [28/Aug/2025 18:55:31] "[33mGET /validation-history HTTP/1.1[0m" 404 -
+2025-08-28 18:55:32,318 - root - INFO - Database connection established successfully
+2025-08-28 18:55:32,328 - root - INFO - User rahul@gmail.com is authenticated
+2025-08-28 18:55:32,339 - werkzeug - INFO - 127.0.0.1 - - [28/Aug/2025 18:55:32] "GET /check-auth HTTP/1.1" 200 -
+2025-08-28 18:55:32,374 - werkzeug - INFO - 127.0.0.1 - - [28/Aug/2025 18:55:32] "[33mGET /rule-configurations HTTP/1.1[0m" 404 -
+2025-08-28 18:55:32,674 - werkzeug - INFO - 127.0.0.1 - - [28/Aug/2025 18:55:32] "[33mGET /validation-history HTTP/1.1[0m" 404 -
+2025-08-28 18:55:51,775 - root - INFO - Database connection established successfully
+2025-08-28 18:55:51,779 - root - INFO - User rahul@gmail.com is authenticated
+2025-08-28 18:55:51,785 - werkzeug - INFO - 127.0.0.1 - - [28/Aug/2025 18:55:51] "GET /check-auth HTTP/1.1" 200 -
+2025-08-28 18:55:51,825 - werkzeug - INFO - 127.0.0.1 - - [28/Aug/2025 18:55:51] "[33mGET /rule-configurations HTTP/1.1[0m" 404 -
+2025-08-28 18:55:52,143 - werkzeug - INFO - 127.0.0.1 - - [28/Aug/2025 18:55:52] "[33mGET /validation-history HTTP/1.1[0m" 404 -
+2025-08-28 18:55:52,519 - root - INFO - Database connection established successfully
+2025-08-28 18:55:52,524 - root - INFO - User rahul@gmail.com is authenticated
+2025-08-28 18:55:52,532 - werkzeug - INFO - 127.0.0.1 - - [28/Aug/2025 18:55:52] "GET /check-auth HTTP/1.1" 200 -
+2025-08-28 18:55:52,857 - werkzeug - INFO - 127.0.0.1 - - [28/Aug/2025 18:55:52] "[33mGET /validation-history HTTP/1.1[0m" 404 -
+2025-08-28 18:55:52,860 - werkzeug - INFO - 127.0.0.1 - - [28/Aug/2025 18:55:52] "[33mGET /rule-configurations HTTP/1.1[0m" 404 -
+2025-08-28 18:56:25,267 - root - INFO - Database connection established successfully
+2025-08-28 18:56:25,271 - root - INFO - User rahul@gmail.com is authenticated
+2025-08-28 18:56:25,276 - werkzeug - INFO - 127.0.0.1 - - [28/Aug/2025 18:56:25] "GET /check-auth HTTP/1.1" 200 -
+2025-08-28 18:56:25,579 - werkzeug - INFO - 127.0.0.1 - - [28/Aug/2025 18:56:25] "[33mGET /validation-history HTTP/1.1[0m" 404 -
+2025-08-28 18:56:25,594 - werkzeug - INFO - 127.0.0.1 - - [28/Aug/2025 18:56:25] "[33mGET /rule-configurations HTTP/1.1[0m" 404 -
+2025-08-28 18:56:25,904 - root - INFO - Database connection established successfully
+2025-08-28 18:56:25,909 - root - INFO - User rahul@gmail.com is authenticated
+2025-08-28 18:56:25,916 - werkzeug - INFO - 127.0.0.1 - - [28/Aug/2025 18:56:25] "GET /check-auth HTTP/1.1" 200 -
+2025-08-28 18:56:25,932 - werkzeug - INFO - 127.0.0.1 - - [28/Aug/2025 18:56:25] "[33mGET /rule-configurations HTTP/1.1[0m" 404 -
+2025-08-28 18:56:25,935 - werkzeug - INFO - 127.0.0.1 - - [28/Aug/2025 18:56:25] "[33mGET /validation-history HTTP/1.1[0m" 404 -
+2025-08-28 18:56:30,722 - root - INFO - Database connection established successfully
+2025-08-28 18:56:30,726 - root - INFO - User rahul@gmail.com is authenticated
+2025-08-28 18:56:30,732 - werkzeug - INFO - 127.0.0.1 - - [28/Aug/2025 18:56:30] "GET /check-auth HTTP/1.1" 200 -
+2025-08-28 18:56:30,966 - werkzeug - INFO - 127.0.0.1 - - [28/Aug/2025 18:56:30] "[33mGET /rule-configurations HTTP/1.1[0m" 404 -
+2025-08-28 18:56:31,259 - werkzeug - INFO - 127.0.0.1 - - [28/Aug/2025 18:56:31] "[33mGET /validation-history HTTP/1.1[0m" 404 -
+2025-08-28 18:56:31,670 - root - INFO - Database connection established successfully
+2025-08-28 18:56:31,674 - root - INFO - User rahul@gmail.com is authenticated
+2025-08-28 18:56:31,682 - werkzeug - INFO - 127.0.0.1 - - [28/Aug/2025 18:56:31] "GET /check-auth HTTP/1.1" 200 -
+2025-08-28 18:56:32,004 - werkzeug - INFO - 127.0.0.1 - - [28/Aug/2025 18:56:32] "[33mGET /rule-configurations HTTP/1.1[0m" 404 -
+2025-08-28 18:56:32,007 - werkzeug - INFO - 127.0.0.1 - - [28/Aug/2025 18:56:32] "[33mGET /validation-history HTTP/1.1[0m" 404 -
+2025-08-28 19:00:05,240 - werkzeug - INFO -  * Detected change in 'c:\\Users\\MOM\\Downloads\\Deploy\\Deploy\\14-08-2025\\App (2)\\App\\app.py', reloading
+2025-08-28 19:00:05,453 - werkzeug - INFO -  * Restarting with stat
+2025-08-28 19:00:05,902 - numexpr.utils - INFO - NumExpr defaulting to 12 threads.
+2025-08-28 19:00:07,111 - root - INFO - Initializing database schema...
+2025-08-28 19:00:07,357 - mysql.connector - INFO - package: mysql.connector.plugins
+2025-08-28 19:00:07,358 - mysql.connector - INFO - plugin_name: caching_sha2_password
+2025-08-28 19:00:07,358 - mysql.connector - INFO - AUTHENTICATION_PLUGIN_CLASS: MySQLCachingSHA2PasswordAuthPlugin
+2025-08-28 19:00:07,358 - mysql.connector - INFO - package: mysql.connector.plugins
+2025-08-28 19:00:07,359 - mysql.connector - INFO - plugin_name: mysql_native_password
+2025-08-28 19:00:07,361 - mysql.connector - INFO - AUTHENTICATION_PLUGIN_CLASS: MySQLNativePasswordAuthPlugin
+2025-08-28 19:00:07,596 - root - INFO - Database connection established successfully
+2025-08-28 19:00:07,644 - root - INFO - Database tables initialized
+2025-08-28 19:00:07,644 - root - INFO - Creating admin user...
+2025-08-28 19:00:07,912 - root - INFO - Admin user created or already exists
+2025-08-28 19:00:07,912 - root - INFO - Creating default validation rules...
+2025-08-28 19:00:07,918 - root - INFO - Default validation rules ensured successfully
+2025-08-28 19:00:07,918 - root - INFO - Application initialization completed successfully
+2025-08-28 19:00:07,944 - werkzeug - WARNING -  * Debugger is active!
+2025-08-28 19:00:07,949 - werkzeug - INFO -  * Debugger PIN: 135-922-860
+2025-08-28 19:00:36,329 - root - INFO - Database connection established successfully
+2025-08-28 19:00:36,333 - root - INFO - User rahul@gmail.com is authenticated
+2025-08-28 19:00:36,341 - werkzeug - INFO - 127.0.0.1 - - [28/Aug/2025 19:00:36] "GET /check-auth HTTP/1.1" 200 -
+2025-08-28 19:00:36,883 - werkzeug - INFO - 127.0.0.1 - - [28/Aug/2025 19:00:36] "[33mGET /validation-history HTTP/1.1[0m" 404 -
+2025-08-28 19:00:37,596 - root - INFO - Database connection established successfully
+2025-08-28 19:00:37,601 - root - INFO - Database connection established successfully
+2025-08-28 19:00:37,606 - root - INFO - User rahul@gmail.com is authenticated
+2025-08-28 19:00:37,614 - werkzeug - INFO - 127.0.0.1 - - [28/Aug/2025 19:00:37] "GET /check-auth HTTP/1.1" 200 -
+2025-08-28 19:00:37,635 - werkzeug - INFO - 127.0.0.1 - - [28/Aug/2025 19:00:37] "[33mGET /validation-history HTTP/1.1[0m" 404 -
+2025-08-28 19:00:37,641 - root - INFO - Found 5 templates with rules for user_id: 60
+2025-08-28 19:00:37,649 - werkzeug - INFO - 127.0.0.1 - - [28/Aug/2025 19:00:37] "GET /rule-configurations HTTP/1.1" 200 -
+2025-08-28 19:00:38,048 - root - INFO - Database connection established successfully
+2025-08-28 19:00:38,055 - root - INFO - Found 5 templates with rules for user_id: 60
+2025-08-28 19:00:38,061 - werkzeug - INFO - 127.0.0.1 - - [28/Aug/2025 19:00:38] "GET /rule-configurations HTTP/1.1" 200 -
+2025-08-28 19:00:44,649 - werkzeug - INFO - 127.0.0.1 - - [28/Aug/2025 19:00:44] "[31m[1mPOST /upload HTTP/1.1[0m" 405 -
+2025-08-28 19:05:38,348 - werkzeug - INFO -  * Detected change in 'c:\\Users\\MOM\\Downloads\\Deploy\\Deploy\\14-08-2025\\App (2)\\App\\app.py', reloading
+2025-08-28 19:05:38,554 - werkzeug - INFO -  * Restarting with stat
+2025-08-28 19:05:38,934 - numexpr.utils - INFO - NumExpr defaulting to 12 threads.
+2025-08-28 19:05:39,934 - root - INFO - Initializing database schema...
+2025-08-28 19:05:40,189 - mysql.connector - INFO - package: mysql.connector.plugins
+2025-08-28 19:05:40,189 - mysql.connector - INFO - plugin_name: caching_sha2_password
+2025-08-28 19:05:40,189 - mysql.connector - INFO - AUTHENTICATION_PLUGIN_CLASS: MySQLCachingSHA2PasswordAuthPlugin
+2025-08-28 19:05:40,190 - mysql.connector - INFO - package: mysql.connector.plugins
+2025-08-28 19:05:40,190 - mysql.connector - INFO - plugin_name: mysql_native_password
+2025-08-28 19:05:40,191 - mysql.connector - INFO - AUTHENTICATION_PLUGIN_CLASS: MySQLNativePasswordAuthPlugin
+2025-08-28 19:05:40,419 - root - INFO - Database connection established successfully
+2025-08-28 19:05:40,470 - root - INFO - Database tables initialized
+2025-08-28 19:05:40,470 - root - INFO - Creating admin user...
+2025-08-28 19:05:40,781 - root - INFO - Admin user created or already exists
+2025-08-28 19:05:40,781 - root - INFO - Creating default validation rules...
+2025-08-28 19:05:40,787 - root - INFO - Default validation rules ensured successfully
+2025-08-28 19:05:40,787 - root - INFO - Application initialization completed successfully
+2025-08-28 19:05:40,805 - werkzeug - WARNING -  * Debugger is active!
+2025-08-28 19:05:40,810 - werkzeug - INFO -  * Debugger PIN: 135-922-860
+2025-08-28 19:06:06,506 - werkzeug - INFO - 127.0.0.1 - - [28/Aug/2025 19:06:06] "[31m[1mPOST /api/authenticate HTTP/1.1[0m" 405 -
+2025-08-28 19:06:47,184 - numexpr.utils - INFO - NumExpr defaulting to 12 threads.
+2025-08-28 19:06:48,120 - root - INFO - Initializing database schema...
+2025-08-28 19:06:48,350 - mysql.connector - INFO - package: mysql.connector.plugins
+2025-08-28 19:06:48,350 - mysql.connector - INFO - plugin_name: caching_sha2_password
+2025-08-28 19:06:48,351 - mysql.connector - INFO - AUTHENTICATION_PLUGIN_CLASS: MySQLCachingSHA2PasswordAuthPlugin
+2025-08-28 19:06:48,351 - mysql.connector - INFO - package: mysql.connector.plugins
+2025-08-28 19:06:48,351 - mysql.connector - INFO - plugin_name: mysql_native_password
+2025-08-28 19:06:48,353 - mysql.connector - INFO - AUTHENTICATION_PLUGIN_CLASS: MySQLNativePasswordAuthPlugin
+2025-08-28 19:06:48,577 - root - INFO - Database connection established successfully
+2025-08-28 19:06:48,621 - root - INFO - Database tables initialized
+2025-08-28 19:06:48,621 - root - INFO - Creating admin user...
+2025-08-28 19:06:48,887 - root - INFO - Admin user created or already exists
+2025-08-28 19:06:48,887 - root - INFO - Creating default validation rules...
+2025-08-28 19:06:48,893 - root - INFO - Default validation rules ensured successfully
+2025-08-28 19:06:48,893 - root - INFO - Application initialization completed successfully
+2025-08-28 19:06:48,933 - werkzeug - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://10.178.161.115:5000
+2025-08-28 19:06:48,934 - werkzeug - INFO - [33mPress CTRL+C to quit[0m
+2025-08-28 19:06:48,935 - werkzeug - INFO -  * Restarting with stat
+2025-08-28 19:06:49,271 - numexpr.utils - INFO - NumExpr defaulting to 12 threads.
+2025-08-28 19:06:50,087 - root - INFO - Initializing database schema...
+2025-08-28 19:06:50,312 - mysql.connector - INFO - package: mysql.connector.plugins
+2025-08-28 19:06:50,312 - mysql.connector - INFO - plugin_name: caching_sha2_password
+2025-08-28 19:06:50,312 - mysql.connector - INFO - AUTHENTICATION_PLUGIN_CLASS: MySQLCachingSHA2PasswordAuthPlugin
+2025-08-28 19:06:50,313 - mysql.connector - INFO - package: mysql.connector.plugins
+2025-08-28 19:06:50,313 - mysql.connector - INFO - plugin_name: mysql_native_password
+2025-08-28 19:06:50,314 - mysql.connector - INFO - AUTHENTICATION_PLUGIN_CLASS: MySQLNativePasswordAuthPlugin
+2025-08-28 19:06:50,518 - root - INFO - Database connection established successfully
+2025-08-28 19:06:50,558 - root - INFO - Database tables initialized
+2025-08-28 19:06:50,558 - root - INFO - Creating admin user...
+2025-08-28 19:06:50,816 - root - INFO - Admin user created or already exists
+2025-08-28 19:06:50,816 - root - INFO - Creating default validation rules...
+2025-08-28 19:06:50,821 - root - INFO - Default validation rules ensured successfully
+2025-08-28 19:06:50,821 - root - INFO - Application initialization completed successfully
+2025-08-28 19:06:50,842 - werkzeug - WARNING -  * Debugger is active!
+2025-08-28 19:06:50,847 - werkzeug - INFO -  * Debugger PIN: 135-922-860
+2025-08-28 19:07:07,705 - root - INFO - File saved: c:\Users\MOM\Downloads\Deploy\Deploy\14-08-2025\App (2)\App\uploads\Book1.xlsx
+2025-08-28 19:07:08,335 - root - INFO - Database connection established successfully
+2025-08-28 19:07:08,341 - root - INFO - Found 1 existing templates with name Book1.xlsx
+2025-08-28 19:07:08,363 - root - INFO - Upload processed: template_id=403, filename=Book1.xlsx, has_existing_rules=False
+2025-08-28 19:07:08,371 - werkzeug - INFO - 127.0.0.1 - - [28/Aug/2025 19:07:08] "POST /upload HTTP/1.1" 200 -
+2025-08-28 19:07:08,418 - werkzeug - INFO - 127.0.0.1 - - [28/Aug/2025 19:07:08] "[33mGET /template/403/Sheet1 HTTP/1.1[0m" 404 -
+2025-08-28 19:07:08,790 - werkzeug - INFO - 127.0.0.1 - - [28/Aug/2025 19:07:08] "[33mGET /rules HTTP/1.1[0m" 404 -
+2025-08-28 19:07:09,306 - root - INFO - Database connection established successfully
+2025-08-28 19:07:09,311 - root - INFO - User rahul@gmail.com is authenticated
+2025-08-28 19:07:09,318 - werkzeug - INFO - 127.0.0.1 - - [28/Aug/2025 19:07:09] "GET /check-auth HTTP/1.1" 200 -
+2025-08-28 19:07:11,476 - werkzeug - INFO - 127.0.0.1 - - [28/Aug/2025 19:07:11] "[33mGET /template/403/Sheet1 HTTP/1.1[0m" 404 -
+2025-08-28 19:07:12,800 - root - INFO - Database connection established successfully
+2025-08-28 19:07:12,810 - werkzeug - INFO - 127.0.0.1 - - [28/Aug/2025 19:07:12] "[33mGET /validation-history HTTP/1.1[0m" 404 -
+2025-08-28 19:07:12,952 - root - INFO - Found 5 templates with rules for user_id: 60
+2025-08-28 19:07:12,959 - werkzeug - INFO - 127.0.0.1 - - [28/Aug/2025 19:07:12] "GET /rule-configurations HTTP/1.1" 200 -
+2025-08-28 19:07:13,208 - root - INFO - Database connection established successfully
+2025-08-28 19:07:13,213 - root - INFO - User rahul@gmail.com is authenticated
+2025-08-28 19:07:13,222 - werkzeug - INFO - 127.0.0.1 - - [28/Aug/2025 19:07:13] "GET /check-auth HTTP/1.1" 200 -
+2025-08-28 19:07:13,612 - werkzeug - INFO - 127.0.0.1 - - [28/Aug/2025 19:07:13] "[33mGET /validation-history HTTP/1.1[0m" 404 -
+2025-08-28 19:07:14,097 - root - INFO - Database connection established successfully
+2025-08-28 19:07:14,103 - root - INFO - Found 5 templates with rules for user_id: 60
+2025-08-28 19:07:14,113 - werkzeug - INFO - 127.0.0.1 - - [28/Aug/2025 19:07:14] "GET /rule-configurations HTTP/1.1" 200 -
+2025-08-28 19:07:19,421 - root - INFO - Database connection established successfully
+2025-08-28 19:07:19,427 - root - INFO - User rahul@gmail.com is authenticated
+2025-08-28 19:07:19,438 - werkzeug - INFO - 127.0.0.1 - - [28/Aug/2025 19:07:19] "GET /check-auth HTTP/1.1" 200 -
+2025-08-28 19:07:23,457 - werkzeug - INFO - 127.0.0.1 - - [28/Aug/2025 19:07:23] "[33mGET /validation-history HTTP/1.1[0m" 404 -
+2025-08-28 19:07:24,375 - root - INFO - Database connection established successfully
+2025-08-28 19:07:24,390 - root - INFO - Database connection established successfully
+2025-08-28 19:07:24,393 - root - INFO - User rahul@gmail.com is authenticated
+2025-08-28 19:07:24,397 - root - INFO - Found 5 templates with rules for user_id: 60
+2025-08-28 19:07:24,405 - werkzeug - INFO - 127.0.0.1 - - [28/Aug/2025 19:07:24] "GET /check-auth HTTP/1.1" 200 -
+2025-08-28 19:07:24,412 - werkzeug - INFO - 127.0.0.1 - - [28/Aug/2025 19:07:24] "GET /rule-configurations HTTP/1.1" 200 -
+2025-08-28 19:07:24,513 - werkzeug - INFO - 127.0.0.1 - - [28/Aug/2025 19:07:24] "[33mGET /validation-history HTTP/1.1[0m" 404 -
+2025-08-28 19:07:24,912 - root - INFO - Database connection established successfully
+2025-08-28 19:07:24,917 - root - INFO - Found 5 templates with rules for user_id: 60
+2025-08-28 19:07:24,925 - werkzeug - INFO - 127.0.0.1 - - [28/Aug/2025 19:07:24] "GET /rule-configurations HTTP/1.1" 200 -
+2025-08-28 19:07:31,379 - root - INFO - File saved: c:\Users\MOM\Downloads\Deploy\Deploy\14-08-2025\App (2)\App\uploads\Book1.xlsx
+2025-08-28 19:07:31,873 - root - INFO - Database connection established successfully
+2025-08-28 19:07:31,879 - root - INFO - Found 2 existing templates with name Book1.xlsx
+2025-08-28 19:07:31,887 - root - INFO - Upload processed: template_id=403, filename=Book1.xlsx, has_existing_rules=False
+2025-08-28 19:07:31,899 - werkzeug - INFO - 127.0.0.1 - - [28/Aug/2025 19:07:31] "POST /upload HTTP/1.1" 200 -
+2025-08-28 19:07:31,930 - werkzeug - INFO - 127.0.0.1 - - [28/Aug/2025 19:07:31] "[33mGET /template/403/Sheet1 HTTP/1.1[0m" 404 -
+2025-08-28 19:07:32,294 - werkzeug - INFO - 127.0.0.1 - - [28/Aug/2025 19:07:32] "[33mGET /rules HTTP/1.1[0m" 404 -
+2025-08-28 19:07:32,704 - root - INFO - Database connection established successfully
+2025-08-28 19:07:32,708 - root - INFO - User rahul@gmail.com is authenticated
+2025-08-28 19:07:32,716 - werkzeug - INFO - 127.0.0.1 - - [28/Aug/2025 19:07:32] "GET /check-auth HTTP/1.1" 200 -
+2025-08-28 19:14:00,374 - werkzeug - INFO -  * Detected change in 'c:\\Users\\MOM\\Downloads\\Deploy\\Deploy\\14-08-2025\\App (2)\\App\\app.py', reloading
+2025-08-28 19:14:00,631 - werkzeug - INFO -  * Restarting with stat
+2025-08-28 19:14:01,117 - numexpr.utils - INFO - NumExpr defaulting to 12 threads.
+2025-08-28 19:14:02,319 - root - INFO - Initializing database schema...
+2025-08-28 19:14:02,558 - mysql.connector - INFO - package: mysql.connector.plugins
+2025-08-28 19:14:02,559 - mysql.connector - INFO - plugin_name: caching_sha2_password
+2025-08-28 19:14:02,559 - mysql.connector - INFO - AUTHENTICATION_PLUGIN_CLASS: MySQLCachingSHA2PasswordAuthPlugin
+2025-08-28 19:14:02,560 - mysql.connector - INFO - package: mysql.connector.plugins
+2025-08-28 19:14:02,560 - mysql.connector - INFO - plugin_name: mysql_native_password
+2025-08-28 19:14:02,562 - mysql.connector - INFO - AUTHENTICATION_PLUGIN_CLASS: MySQLNativePasswordAuthPlugin
+2025-08-28 19:14:02,768 - root - INFO - Database connection established successfully
+2025-08-28 19:14:02,809 - root - INFO - Database tables initialized
+2025-08-28 19:14:02,810 - root - INFO - Creating admin user...
+2025-08-28 19:14:03,071 - root - INFO - Admin user created or already exists
+2025-08-28 19:14:03,071 - root - INFO - Creating default validation rules...
+2025-08-28 19:14:03,077 - root - INFO - Default validation rules ensured successfully
+2025-08-28 19:14:03,077 - root - INFO - Application initialization completed successfully
+2025-08-28 19:14:03,106 - werkzeug - WARNING -  * Debugger is active!
+2025-08-28 19:14:03,112 - werkzeug - INFO -  * Debugger PIN: 135-922-860
+2025-08-28 19:14:10,388 - werkzeug - INFO -  * Detected change in 'c:\\Users\\MOM\\Downloads\\Deploy\\Deploy\\14-08-2025\\App (2)\\App\\app.py', reloading
+2025-08-28 19:14:10,596 - werkzeug - INFO -  * Restarting with stat
+2025-08-28 19:14:10,953 - numexpr.utils - INFO - NumExpr defaulting to 12 threads.
+2025-08-28 19:14:11,908 - root - INFO - Initializing database schema...
+2025-08-28 19:14:12,135 - mysql.connector - INFO - package: mysql.connector.plugins
+2025-08-28 19:14:12,135 - mysql.connector - INFO - plugin_name: caching_sha2_password
+2025-08-28 19:14:12,135 - mysql.connector - INFO - AUTHENTICATION_PLUGIN_CLASS: MySQLCachingSHA2PasswordAuthPlugin
+2025-08-28 19:14:12,136 - mysql.connector - INFO - package: mysql.connector.plugins
+2025-08-28 19:14:12,136 - mysql.connector - INFO - plugin_name: mysql_native_password
+2025-08-28 19:14:12,137 - mysql.connector - INFO - AUTHENTICATION_PLUGIN_CLASS: MySQLNativePasswordAuthPlugin
+2025-08-28 19:14:12,358 - root - INFO - Database connection established successfully
+2025-08-28 19:14:12,403 - root - INFO - Database tables initialized
+2025-08-28 19:14:12,403 - root - INFO - Creating admin user...
+2025-08-28 19:14:12,733 - root - INFO - Admin user created or already exists
+2025-08-28 19:14:12,733 - root - INFO - Creating default validation rules...
+2025-08-28 19:14:12,742 - root - INFO - Default validation rules ensured successfully
+2025-08-28 19:14:12,743 - root - INFO - Application initialization completed successfully
+2025-08-28 19:14:12,769 - werkzeug - WARNING -  * Debugger is active!
+2025-08-28 19:14:12,773 - werkzeug - INFO -  * Debugger PIN: 135-922-860
+2025-08-28 19:16:48,734 - root - ERROR - 404 Error: GET http://127.0.0.1:5000/template/403/Sheet1 not found
+2025-08-28 19:16:48,735 - root - ERROR - Available routes: ['/<path:filename>', '/', '/<path:path>', '/health', '/api/auth/authenticate', '/authenticate', '/api/auth/check-auth', '/check-auth', '/api/auth/register', '/register', '/api/auth/logout', '/logout', '/api/templates', '/templates', '/api/validation/rule-configurations', '/rule-configurations', '/api/upload', '/api/templates/upload', '/upload', '/debug/routes']
+2025-08-28 19:16:48,743 - werkzeug - INFO - 127.0.0.1 - - [28/Aug/2025 19:16:48] "[33mGET /template/403/Sheet1 HTTP/1.1[0m" 404 -
+2025-08-28 19:16:51,397 - root - ERROR - 404 Error: GET http://127.0.0.1:5000/template/403/Sheet1 not found
+2025-08-28 19:16:51,398 - root - ERROR - Available routes: ['/<path:filename>', '/', '/<path:path>', '/health', '/api/auth/authenticate', '/authenticate', '/api/auth/check-auth', '/check-auth', '/api/auth/register', '/register', '/api/auth/logout', '/logout', '/api/templates', '/templates', '/api/validation/rule-configurations', '/rule-configurations', '/api/upload', '/api/templates/upload', '/upload', '/debug/routes']
+2025-08-28 19:16:51,401 - werkzeug - INFO - 127.0.0.1 - - [28/Aug/2025 19:16:51] "[33mGET /template/403/Sheet1 HTTP/1.1[0m" 404 -
+2025-08-28 19:16:53,674 - root - ERROR - 404 Error: GET http://127.0.0.1:5000/validation-history not found
+2025-08-28 19:16:53,701 - root - ERROR - Available routes: ['/<path:filename>', '/', '/<path:path>', '/health', '/api/auth/authenticate', '/authenticate', '/api/auth/check-auth', '/check-auth', '/api/auth/register', '/register', '/api/auth/logout', '/logout', '/api/templates', '/templates', '/api/validation/rule-configurations', '/rule-configurations', '/api/upload', '/api/templates/upload', '/upload', '/debug/routes']
+2025-08-28 19:16:53,874 - werkzeug - INFO - 127.0.0.1 - - [28/Aug/2025 19:16:53] "[33mGET /validation-history HTTP/1.1[0m" 404 -
+2025-08-28 19:16:53,962 - root - INFO - Database connection established successfully
+2025-08-28 19:16:54,029 - root - INFO - Found 5 templates with rules for user_id: 60
+2025-08-28 19:16:54,039 - werkzeug - INFO - 127.0.0.1 - - [28/Aug/2025 19:16:54] "GET /rule-configurations HTTP/1.1" 200 -
+2025-08-28 19:16:54,316 - root - INFO - Database connection established successfully
+2025-08-28 19:16:54,320 - root - INFO - User rahul@gmail.com is authenticated
+2025-08-28 19:16:54,328 - werkzeug - INFO - 127.0.0.1 - - [28/Aug/2025 19:16:54] "GET /check-auth HTTP/1.1" 200 -
+2025-08-28 19:16:54,350 - root - ERROR - 404 Error: GET http://127.0.0.1:5000/validation-history not found
+2025-08-28 19:16:54,351 - root - ERROR - Available routes: ['/<path:filename>', '/', '/<path:path>', '/health', '/api/auth/authenticate', '/authenticate', '/api/auth/check-auth', '/check-auth', '/api/auth/register', '/register', '/api/auth/logout', '/logout', '/api/templates', '/templates', '/api/validation/rule-configurations', '/rule-configurations', '/api/upload', '/api/templates/upload', '/upload', '/debug/routes']
+2025-08-28 19:16:54,471 - werkzeug - INFO - 127.0.0.1 - - [28/Aug/2025 19:16:54] "[33mGET /validation-history HTTP/1.1[0m" 404 -
+2025-08-28 19:16:54,879 - root - INFO - Database connection established successfully
+2025-08-28 19:16:54,885 - root - INFO - Found 5 templates with rules for user_id: 60
+2025-08-28 19:16:54,895 - werkzeug - INFO - 127.0.0.1 - - [28/Aug/2025 19:16:54] "GET /rule-configurations HTTP/1.1" 200 -
+2025-08-28 19:16:59,766 - root - INFO - Upload endpoint called: upload, method: POST
+2025-08-28 19:16:59,768 - root - INFO - File saved: c:\Users\MOM\Downloads\Deploy\Deploy\14-08-2025\App (2)\App\uploads\Book1.xlsx
+2025-08-28 19:17:00,321 - root - INFO - Database connection established successfully
+2025-08-28 19:17:00,326 - root - INFO - Found 2 existing templates with name Book1.xlsx
+2025-08-28 19:17:00,329 - root - INFO - Upload processed: template_id=403, filename=Book1.xlsx, has_existing_rules=False
+2025-08-28 19:17:00,339 - werkzeug - INFO - 127.0.0.1 - - [28/Aug/2025 19:17:00] "POST /upload HTTP/1.1" 200 -
+2025-08-28 19:17:00,375 - root - ERROR - 404 Error: GET http://127.0.0.1:5000/template/403/Sheet1 not found
+2025-08-28 19:17:00,375 - root - ERROR - Available routes: ['/<path:filename>', '/', '/<path:path>', '/health', '/api/auth/authenticate', '/authenticate', '/api/auth/check-auth', '/check-auth', '/api/auth/register', '/register', '/api/auth/logout', '/logout', '/api/templates', '/templates', '/api/validation/rule-configurations', '/rule-configurations', '/api/upload', '/api/templates/upload', '/upload', '/debug/routes']
+2025-08-28 19:17:00,379 - werkzeug - INFO - 127.0.0.1 - - [28/Aug/2025 19:17:00] "[33mGET /template/403/Sheet1 HTTP/1.1[0m" 404 -
+2025-08-28 19:17:00,669 - root - ERROR - 404 Error: GET http://127.0.0.1:5000/rules not found
+2025-08-28 19:17:00,669 - root - ERROR - Available routes: ['/<path:filename>', '/', '/<path:path>', '/health', '/api/auth/authenticate', '/authenticate', '/api/auth/check-auth', '/check-auth', '/api/auth/register', '/register', '/api/auth/logout', '/logout', '/api/templates', '/templates', '/api/validation/rule-configurations', '/rule-configurations', '/api/upload', '/api/templates/upload', '/upload', '/debug/routes']
+2025-08-28 19:17:00,725 - werkzeug - INFO - 127.0.0.1 - - [28/Aug/2025 19:17:00] "[33mGET /rules HTTP/1.1[0m" 404 -
+2025-08-28 19:17:01,199 - root - INFO - Database connection established successfully
+2025-08-28 19:17:01,203 - root - INFO - User rahul@gmail.com is authenticated
+2025-08-28 19:17:01,211 - werkzeug - INFO - 127.0.0.1 - - [28/Aug/2025 19:17:01] "GET /check-auth HTTP/1.1" 200 -
+2025-08-28 19:17:47,462 - root - ERROR - 404 Error: GET http://127.0.0.1:5000/template/403/Sheet1 not found
+2025-08-28 19:17:47,462 - root - ERROR - Available routes: ['/<path:filename>', '/', '/<path:path>', '/health', '/api/auth/authenticate', '/authenticate', '/api/auth/check-auth', '/check-auth', '/api/auth/register', '/register', '/api/auth/logout', '/logout', '/api/templates', '/templates', '/api/validation/rule-configurations', '/rule-configurations', '/api/upload', '/api/templates/upload', '/upload', '/debug/routes']
+2025-08-28 19:17:47,467 - werkzeug - INFO - 127.0.0.1 - - [28/Aug/2025 19:17:47] "[33mGET /template/403/Sheet1 HTTP/1.1[0m" 404 -
+2025-08-28 19:19:26,288 - werkzeug - INFO -  * Detected change in 'c:\\Users\\MOM\\Downloads\\Deploy\\Deploy\\14-08-2025\\App (2)\\App\\app.py', reloading
+2025-08-28 19:19:26,492 - werkzeug - INFO -  * Restarting with stat
+2025-08-28 19:19:26,988 - numexpr.utils - INFO - NumExpr defaulting to 12 threads.
+2025-08-28 19:19:28,206 - root - INFO - Initializing database schema...
+2025-08-28 19:19:28,423 - mysql.connector - INFO - package: mysql.connector.plugins
+2025-08-28 19:19:28,424 - mysql.connector - INFO - plugin_name: caching_sha2_password
+2025-08-28 19:19:28,424 - mysql.connector - INFO - AUTHENTICATION_PLUGIN_CLASS: MySQLCachingSHA2PasswordAuthPlugin
+2025-08-28 19:19:28,425 - mysql.connector - INFO - package: mysql.connector.plugins
+2025-08-28 19:19:28,425 - mysql.connector - INFO - plugin_name: mysql_native_password
+2025-08-28 19:19:28,435 - mysql.connector - INFO - AUTHENTICATION_PLUGIN_CLASS: MySQLNativePasswordAuthPlugin
+2025-08-28 19:19:28,642 - root - INFO - Database connection established successfully
+2025-08-28 19:19:28,681 - root - INFO - Database tables initialized
+2025-08-28 19:19:28,681 - root - INFO - Creating admin user...
+2025-08-28 19:19:28,960 - root - INFO - Admin user created or already exists
+2025-08-28 19:19:28,960 - root - INFO - Creating default validation rules...
+2025-08-28 19:19:28,969 - root - INFO - Default validation rules ensured successfully
+2025-08-28 19:19:28,969 - root - INFO - Application initialization completed successfully
+2025-08-28 19:19:28,997 - werkzeug - WARNING -  * Debugger is active!
+2025-08-28 19:19:29,003 - werkzeug - INFO -  * Debugger PIN: 135-922-860
+2025-08-28 19:23:32,363 - root - INFO - Database connection established successfully
+2025-08-28 19:23:32,376 - werkzeug - INFO - 127.0.0.1 - - [28/Aug/2025 19:23:32] "GET /template/403/Sheet1 HTTP/1.1" 200 -
+2025-08-28 19:23:32,754 - root - INFO - Database connection established successfully
+2025-08-28 19:23:32,763 - werkzeug - INFO - 127.0.0.1 - - [28/Aug/2025 19:23:32] "GET /template/403/Sheet1 HTTP/1.1" 200 -
+2025-08-28 19:23:37,128 - werkzeug - INFO - 127.0.0.1 - - [28/Aug/2025 19:23:37] "[31m[1mPOST /step/1 HTTP/1.1[0m" 405 -
+2025-08-28 19:40:11,845 - werkzeug - INFO - 127.0.0.1 - - [28/Aug/2025 19:40:11] "[31m[1mPOST /step/1 HTTP/1.1[0m" 405 -
+2025-08-28 19:40:22,732 - werkzeug - INFO - 127.0.0.1 - - [28/Aug/2025 19:40:22] "[31m[1mPOST /step/1 HTTP/1.1[0m" 405 -
+2025-08-28 19:41:18,572 - werkzeug - INFO -  * Detected change in 'c:\\Users\\MOM\\Downloads\\Deploy\\Deploy\\14-08-2025\\App (2)\\App\\app.py', reloading
+2025-08-28 19:41:19,345 - werkzeug - INFO -  * Restarting with stat
+2025-08-28 19:41:19,938 - numexpr.utils - INFO - NumExpr defaulting to 12 threads.
+2025-08-28 19:41:21,015 - root - INFO - Initializing database schema...
+2025-08-28 19:41:21,313 - mysql.connector - INFO - package: mysql.connector.plugins
+2025-08-28 19:41:21,313 - mysql.connector - INFO - plugin_name: caching_sha2_password
+2025-08-28 19:41:21,313 - mysql.connector - INFO - AUTHENTICATION_PLUGIN_CLASS: MySQLCachingSHA2PasswordAuthPlugin
+2025-08-28 19:41:21,315 - mysql.connector - INFO - package: mysql.connector.plugins
+2025-08-28 19:41:21,316 - mysql.connector - INFO - plugin_name: mysql_native_password
+2025-08-28 19:41:21,317 - mysql.connector - INFO - AUTHENTICATION_PLUGIN_CLASS: MySQLNativePasswordAuthPlugin
+2025-08-28 19:41:21,522 - root - INFO - Database connection established successfully
+2025-08-28 19:41:21,609 - root - INFO - Database tables initialized
+2025-08-28 19:41:21,609 - root - INFO - Creating admin user...
+2025-08-28 19:41:21,847 - root - INFO - Admin user created or already exists
+2025-08-28 19:41:21,848 - root - INFO - Creating default validation rules...
+2025-08-28 19:41:21,855 - root - INFO - Default validation rules ensured successfully
+2025-08-28 19:41:21,856 - root - INFO - Application initialization completed successfully
+2025-08-28 19:41:21,879 - werkzeug - WARNING -  * Debugger is active!
+2025-08-28 19:41:21,885 - werkzeug - INFO -  * Debugger PIN: 135-922-860
+2025-08-28 19:42:40,107 - root - INFO - Database connection established successfully
+2025-08-28 19:42:40,128 - root - INFO - Step 1 completed: headers=['name ', 'cgst', 'sgst', 'gst']
+2025-08-28 19:42:40,136 - werkzeug - INFO - 127.0.0.1 - - [28/Aug/2025 19:42:40] "POST /step/1 HTTP/1.1" 200 -
+2025-08-28 19:42:40,855 - root - INFO - Database connection established successfully
+2025-08-28 19:42:41,095 - werkzeug - INFO - 127.0.0.1 - - [28/Aug/2025 19:42:41] "GET /template/403/Sheet1 HTTP/1.1" 200 -
+2025-08-28 19:42:41,097 - root - INFO - Database connection established successfully
+2025-08-28 19:42:41,105 - root - INFO - Returning 16 rules from getRules endpoint
+2025-08-28 19:42:41,114 - werkzeug - INFO - 127.0.0.1 - - [28/Aug/2025 19:42:41] "GET /rules HTTP/1.1" 200 -
+2025-08-28 19:42:41,858 - root - INFO - Database connection established successfully
+2025-08-28 19:42:41,863 - root - INFO - Returning 16 rules from getRules endpoint
+2025-08-28 19:42:41,869 - werkzeug - INFO - 127.0.0.1 - - [28/Aug/2025 19:42:41] "GET /rules HTTP/1.1" 200 -
+2025-08-28 19:47:26,568 - werkzeug - INFO -  * Detected change in 'c:\\Users\\MOM\\Downloads\\Deploy\\Deploy\\14-08-2025\\App (2)\\App\\app.py', reloading
+2025-08-28 19:47:26,770 - werkzeug - INFO -  * Restarting with stat
+2025-08-28 19:47:27,156 - numexpr.utils - INFO - NumExpr defaulting to 12 threads.
+2025-08-28 19:47:28,150 - root - INFO - Initializing database schema...
+2025-08-28 19:47:28,348 - mysql.connector - INFO - package: mysql.connector.plugins
+2025-08-28 19:47:28,349 - mysql.connector - INFO - plugin_name: caching_sha2_password
+2025-08-28 19:47:28,349 - mysql.connector - INFO - AUTHENTICATION_PLUGIN_CLASS: MySQLCachingSHA2PasswordAuthPlugin
+2025-08-28 19:47:28,350 - mysql.connector - INFO - package: mysql.connector.plugins
+2025-08-28 19:47:28,350 - mysql.connector - INFO - plugin_name: mysql_native_password
+2025-08-28 19:47:28,353 - mysql.connector - INFO - AUTHENTICATION_PLUGIN_CLASS: MySQLNativePasswordAuthPlugin
+2025-08-28 19:47:28,529 - root - INFO - Database connection established successfully
+2025-08-28 19:47:28,572 - root - INFO - Database tables initialized
+2025-08-28 19:47:28,572 - root - INFO - Creating admin user...
+2025-08-28 19:47:28,816 - root - INFO - Admin user created or already exists
+2025-08-28 19:47:28,816 - root - INFO - Creating default validation rules...
+2025-08-28 19:47:28,822 - root - INFO - Default validation rules ensured successfully
+2025-08-28 19:47:28,822 - root - INFO - Application initialization completed successfully
+2025-08-28 19:47:28,846 - werkzeug - WARNING -  * Debugger is active!
+2025-08-28 19:47:28,849 - werkzeug - INFO -  * Debugger PIN: 135-922-860
+2025-08-28 19:47:44,876 - werkzeug - INFO -  * Detected change in 'c:\\Users\\MOM\\Downloads\\Deploy\\Deploy\\14-08-2025\\App (2)\\App\\app.py', reloading
+2025-08-28 19:47:45,056 - werkzeug - INFO -  * Restarting with stat
+2025-08-29 10:50:04,756 - numexpr.utils - INFO - NumExpr defaulting to 12 threads.
+2025-08-29 10:50:05,840 - root - INFO - All blueprints registered successfully
+2025-08-29 10:50:05,844 - root - INFO - Initializing database schema...
+2025-08-29 10:50:06,174 - mysql.connector - INFO - package: mysql.connector.plugins
+2025-08-29 10:50:06,174 - mysql.connector - INFO - plugin_name: caching_sha2_password
+2025-08-29 10:50:06,175 - mysql.connector - INFO - AUTHENTICATION_PLUGIN_CLASS: MySQLCachingSHA2PasswordAuthPlugin
+2025-08-29 10:50:06,177 - mysql.connector - INFO - package: mysql.connector.plugins
+2025-08-29 10:50:06,178 - mysql.connector - INFO - plugin_name: mysql_native_password
+2025-08-29 10:50:06,180 - mysql.connector - INFO - AUTHENTICATION_PLUGIN_CLASS: MySQLNativePasswordAuthPlugin
+2025-08-29 10:50:06,434 - root - INFO - Database connection established successfully
+2025-08-29 10:50:06,500 - root - INFO - Database tables initialized successfully
+2025-08-29 10:50:06,501 - root - INFO - Creating admin user...
+2025-08-29 10:50:06,513 - root - INFO - Admin user already exists
+2025-08-29 10:50:06,514 - root - INFO - Creating default validation rules...
+2025-08-29 10:50:06,543 - root - INFO - Default validation rules created successfully
+2025-08-29 10:50:06,543 - root - INFO - Application initialization completed successfully
+2025-08-29 10:50:06,602 - werkzeug - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://10.178.161.115:5000
+2025-08-29 10:50:06,603 - werkzeug - INFO - [33mPress CTRL+C to quit[0m
+2025-08-29 10:50:06,605 - werkzeug - INFO -  * Restarting with stat
+2025-08-29 10:50:07,273 - numexpr.utils - INFO - NumExpr defaulting to 12 threads.
+2025-08-29 10:50:08,029 - root - INFO - All blueprints registered successfully
+2025-08-29 10:50:08,032 - root - INFO - Initializing database schema...
+2025-08-29 10:50:08,256 - mysql.connector - INFO - package: mysql.connector.plugins
+2025-08-29 10:50:08,256 - mysql.connector - INFO - plugin_name: caching_sha2_password
+2025-08-29 10:50:08,257 - mysql.connector - INFO - AUTHENTICATION_PLUGIN_CLASS: MySQLCachingSHA2PasswordAuthPlugin
+2025-08-29 10:50:08,257 - mysql.connector - INFO - package: mysql.connector.plugins
+2025-08-29 10:50:08,258 - mysql.connector - INFO - plugin_name: mysql_native_password
+2025-08-29 10:50:08,259 - mysql.connector - INFO - AUTHENTICATION_PLUGIN_CLASS: MySQLNativePasswordAuthPlugin
+2025-08-29 10:50:08,454 - root - INFO - Database connection established successfully
+2025-08-29 10:50:08,490 - root - INFO - Database tables initialized successfully
+2025-08-29 10:50:08,491 - root - INFO - Creating admin user...
+2025-08-29 10:50:08,492 - root - INFO - Admin user already exists
+2025-08-29 10:50:08,492 - root - INFO - Creating default validation rules...
+2025-08-29 10:50:08,504 - root - INFO - Default validation rules created successfully
+2025-08-29 10:50:08,504 - root - INFO - Application initialization completed successfully
+2025-08-29 10:50:08,527 - werkzeug - WARNING -  * Debugger is active!
+2025-08-29 10:50:08,534 - werkzeug - INFO -  * Debugger PIN: 135-922-860
+2025-08-29 10:50:15,537 - root - ERROR - 404 Error: GET http://127.0.0.1:5000/check-auth not found
+2025-08-29 10:50:15,538 - werkzeug - INFO - 127.0.0.1 - - [29/Aug/2025 10:50:15] "[33mGET /check-auth HTTP/1.1[0m" 404 -
+2025-08-29 10:50:16,820 - werkzeug - INFO - 127.0.0.1 - - [29/Aug/2025 10:50:16] "[31m[1mPOST /authenticate HTTP/1.1[0m" 405 -
+2025-08-29 10:54:30,343 - werkzeug - INFO -  * Detected change in 'c:\\Users\\MOM\\Downloads\\Deploy\\Deploy\\14-08-2025\\App (2)\\App\\app.py', reloading
+2025-08-29 10:54:31,165 - werkzeug - INFO -  * Restarting with stat
+2025-08-29 10:54:31,884 - numexpr.utils - INFO - NumExpr defaulting to 12 threads.
+2025-08-29 10:54:33,169 - root - ERROR - [X] Failed to start application: name 'frontend_' is not defined
+2025-08-29 11:03:49,262 - numexpr.utils - INFO - NumExpr defaulting to 12 threads.
+2025-08-29 11:03:50,928 - root - ERROR - [X] Failed to start application: cannot import name 'create_app' from 'app' (c:\Users\MOM\Downloads\Deploy\Deploy\14-08-2025\App (2)\App\app.py)
+2025-08-29 11:08:08,513 - mysql.connector - INFO - package: mysql.connector.plugins
+2025-08-29 11:08:08,514 - mysql.connector - INFO - plugin_name: caching_sha2_password
+2025-08-29 11:08:08,514 - mysql.connector - INFO - AUTHENTICATION_PLUGIN_CLASS: MySQLCachingSHA2PasswordAuthPlugin
+2025-08-29 11:08:08,517 - mysql.connector - INFO - package: mysql.connector.plugins
+2025-08-29 11:08:08,517 - mysql.connector - INFO - plugin_name: mysql_native_password
+2025-08-29 11:08:08,519 - mysql.connector - INFO - AUTHENTICATION_PLUGIN_CLASS: MySQLNativePasswordAuthPlugin
+2025-08-29 11:08:08,744 - root - INFO - Database connection established successfully
+2025-08-29 11:08:08,834 - root - INFO - Database tables initialized
+2025-08-29 11:08:09,087 - root - INFO - Admin user created or already exists
+2025-08-29 11:08:09,097 - root - INFO - Default validation rules ensured successfully
+2025-08-29 11:08:09,168 - werkzeug - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://10.178.161.115:5000
+2025-08-29 11:08:09,169 - werkzeug - INFO - [33mPress CTRL+C to quit[0m
+2025-08-29 11:08:09,170 - werkzeug - INFO -  * Restarting with stat
+2025-08-29 11:08:10,476 - mysql.connector - INFO - package: mysql.connector.plugins
+2025-08-29 11:08:10,477 - mysql.connector - INFO - plugin_name: caching_sha2_password
+2025-08-29 11:08:10,477 - mysql.connector - INFO - AUTHENTICATION_PLUGIN_CLASS: MySQLCachingSHA2PasswordAuthPlugin
+2025-08-29 11:08:10,477 - mysql.connector - INFO - package: mysql.connector.plugins
+2025-08-29 11:08:10,478 - mysql.connector - INFO - plugin_name: mysql_native_password
+2025-08-29 11:08:10,479 - mysql.connector - INFO - AUTHENTICATION_PLUGIN_CLASS: MySQLNativePasswordAuthPlugin
+2025-08-29 11:08:10,663 - root - INFO - Database connection established successfully
+2025-08-29 11:08:10,701 - root - INFO - Database tables initialized
+2025-08-29 11:08:10,935 - root - INFO - Admin user created or already exists
+2025-08-29 11:08:10,943 - root - INFO - Default validation rules ensured successfully
+2025-08-29 11:08:10,961 - werkzeug - WARNING -  * Debugger is active!
+2025-08-29 11:08:10,968 - werkzeug - INFO -  * Debugger PIN: 135-922-860
+2025-08-29 11:08:17,121 - root - INFO - Database connection established successfully
+2025-08-29 11:08:17,394 - werkzeug - INFO - 127.0.0.1 - - [29/Aug/2025 11:08:17] "POST /authenticate HTTP/1.1" 200 -
+2025-08-29 11:08:17,985 - root - INFO - Database connection established successfully
+2025-08-29 11:08:17,998 - werkzeug - INFO - 127.0.0.1 - - [29/Aug/2025 11:08:17] "GET /check-auth HTTP/1.1" 200 -
+2025-08-29 11:08:21,130 - werkzeug - INFO - 127.0.0.1 - - [29/Aug/2025 11:08:21] "[33mGET /validation-history HTTP/1.1[0m" 404 -
+2025-08-29 11:08:21,775 - root - INFO - Database connection established successfully
+2025-08-29 11:08:21,780 - root - INFO - Database connection established successfully
+2025-08-29 11:08:21,792 - werkzeug - INFO - 127.0.0.1 - - [29/Aug/2025 11:08:21] "GET /check-auth HTTP/1.1" 200 -
+2025-08-29 11:08:21,820 - werkzeug - INFO - 127.0.0.1 - - [29/Aug/2025 11:08:21] "GET /rule-configurations HTTP/1.1" 200 -
+2025-08-29 11:08:21,821 - werkzeug - INFO - 127.0.0.1 - - [29/Aug/2025 11:08:21] "[33mGET /validation-history HTTP/1.1[0m" 404 -
+2025-08-29 11:08:22,605 - root - INFO - Database connection established successfully
+2025-08-29 11:08:22,624 - werkzeug - INFO - 127.0.0.1 - - [29/Aug/2025 11:08:22] "GET /rule-configurations HTTP/1.1" 200 -
+2025-08-29 11:08:29,195 - root - INFO - Database connection established successfully
+2025-08-29 11:08:29,217 - werkzeug - INFO - 127.0.0.1 - - [29/Aug/2025 11:08:29] "POST /upload HTTP/1.1" 200 -
+2025-08-29 11:08:29,871 - werkzeug - INFO - 127.0.0.1 - - [29/Aug/2025 11:08:29] "[33mGET /rules HTTP/1.1[0m" 404 -
+2025-08-29 11:08:30,003 - root - INFO - Database connection established successfully
+2025-08-29 11:08:30,043 - werkzeug - INFO - 127.0.0.1 - - [29/Aug/2025 11:08:30] "GET /check-auth HTTP/1.1" 200 -
+2025-08-29 11:08:30,308 - root - INFO - Database connection established successfully
+2025-08-29 11:08:30,322 - werkzeug - INFO - 127.0.0.1 - - [29/Aug/2025 11:08:30] "GET /template/403/Sheet1 HTTP/1.1" 200 -
+2025-08-29 11:08:31,144 - root - INFO - Database connection established successfully
+2025-08-29 11:08:31,159 - werkzeug - INFO - 127.0.0.1 - - [29/Aug/2025 11:08:31] "GET /template/403/Sheet1 HTTP/1.1" 200 -
+2025-08-29 11:08:34,734 - root - INFO - Database connection established successfully
+2025-08-29 11:08:34,784 - werkzeug - INFO - 127.0.0.1 - - [29/Aug/2025 11:08:34] "POST /step/1 HTTP/1.1" 200 -
+2025-08-29 11:08:35,195 - werkzeug - INFO - 127.0.0.1 - - [29/Aug/2025 11:08:35] "[33mGET /rules HTTP/1.1[0m" 404 -
+2025-08-29 11:08:35,566 - werkzeug - INFO - 127.0.0.1 - - [29/Aug/2025 11:08:35] "[33mGET /rules HTTP/1.1[0m" 404 -
+2025-08-29 11:08:35,570 - root - INFO - Database connection established successfully
+2025-08-29 11:08:35,584 - werkzeug - INFO - 127.0.0.1 - - [29/Aug/2025 11:08:35] "GET /template/403/Sheet1 HTTP/1.1" 200 -
+2025-08-29 11:08:45,314 - werkzeug - INFO - 127.0.0.1 - - [29/Aug/2025 11:08:45] "[33mGET /rules HTTP/1.1[0m" 404 -
+2025-08-29 11:08:46,823 - werkzeug - INFO - 127.0.0.1 - - [29/Aug/2025 11:08:46] "[33mGET /rules HTTP/1.1[0m" 404 -
+2025-08-29 11:08:49,227 - werkzeug - INFO - 127.0.0.1 - - [29/Aug/2025 11:08:49] "[33mGET /rules HTTP/1.1[0m" 404 -
