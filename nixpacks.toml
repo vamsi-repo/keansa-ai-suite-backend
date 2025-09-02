@@ -1,0 +1,12 @@
+# Railway Nixpacks Configuration
+[phases.setup]
+nixPkgs = ["python311", "mysql80"]
+
+[phases.install]
+cmds = ["pip install -r requirements.txt"]
+
+[phases.build]
+cmds = ["python -m compileall ."]
+
+[start]
+cmd = "gunicorn app:app --bind 0.0.0.0:$PORT --workers 2 --timeout 120 --log-level info"
